@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Manpreet Saini Banner" width="100%">
+</p>
+
+
 <!-- 🧢 Custom Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:121212&height=250&section=header&text=Manpreet%20Saini&fontSize=50&fontColor=F7F7F7&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Web3%20Explorer%20%F0%9F%94%A5&descSize=20&descAlignY=60" />

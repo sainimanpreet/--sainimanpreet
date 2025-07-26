@@ -61,9 +61,7 @@ I work with modern web technologies like **React**, **Next.js**, **Node.js**, an
   <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:121212&height=120&section=footer" />
-</p>
+
 
 
 

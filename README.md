@@ -1,14 +1,14 @@
-<!-- 🌌 Banner Section -->
+<!-- 🧢 Custom Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:121212&height=250&section=header&text=Manpreet%20Saini&fontSize=50&fontColor=F7F7F7&fontAlignY=40&desc=Aesthetic%20Full-Stack%20Developer%20%F0%9F%92%A5&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:121212&height=250&section=header&text=Manpreet%20Saini&fontSize=50&fontColor=F7F7F7&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Web3%20Explorer%20%F0%9F%94%A5&descSize=20&descAlignY=60" />
 </p>
 
-<!-- Typing SVG -->
+<!-- 🔠 Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Manpreet+Saini;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%93%96;Web3+Explorer+%F0%9F%92%A1;Let's+Build+Something+Cool!" />
 </p>
 
-<!-- Profile Picture -->
+<!-- 🧑 Profile Pic -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR_USERNAME?v=4" width="150" height="150" style="border-radius: 50%;" />
 </p>
@@ -16,19 +16,19 @@
 ---
 
 ## 🧠 About Me
-```ts
-const Manpreet = {
-  code: [ "JavaScript", "TypeScript", "Solidity", "Python" ],
-  askMeAbout: ["Full Stack Dev", "Blockchain", "APIs", "UI/UX"],
-  tools: ["React", "Next.js", "Node.js", "Tailwind", "MongoDB"],
-  vibe: "Dark themed terminal & caffeine",
-  currentlyLearning: "Web3 dApps & Layer 2 Scaling",
-};
-```
+
+Hey there! 👋 I'm **Manpreet Saini**, a passionate **Full-Stack Developer** who loves turning ideas into real-world applications.  
+I work with modern web technologies like **React**, **Next.js**, **Node.js**, and even dive into **Web3** with **Solidity**.
+
+- 🔭 I’m currently building cool side-projects and dApps  
+- 🌱 Exploring the world of decentralized tech & smart contracts  
+- 🛠️ I love minimal UI, dark mode, and pixel-perfect frontend  
+- ☕ Fuelled by coffee, creativity, and clean code  
+- 💬 Always open for collaborations, ideas, or just a good developer meme
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,solidity,mongodb,tailwind,figma,git,github,vscode&theme=dark" />
@@ -45,18 +45,19 @@ const Manpreet = {
 
 ---
 
-## 💎 Top Languages
+## 📈 Top Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainimanpreet&layout=compact&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
-## 🎯 Projects Showcase
+## 💎 Featured Projects
 
-- 🐞 [Bug Tracker](https://github.com/sainimanpreet/bug-tracker)
-- 🗺️ [Wanderlust](https://github.com/sainimanpreet/major-project)
-- 🛠️ More coming soon...
+- 🐞 [Bug Tracker](https://github.com/sainimanpreet/bug-tracker) – Minimal Issue Management System  
+- 🗺️ [Wanderlust](https://github.com/sainimanpreet/major-project) – Listing & Review Web App  
+- 🔥 More Projects coming soon...
 
 ---
 
@@ -64,13 +65,14 @@ const Manpreet = {
 
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧠 Quote of the Day
+## ✍️ Quote of the Day
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>

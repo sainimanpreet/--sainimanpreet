@@ -2,12 +2,6 @@
   <img src="./banner.png" alt="Manpreet Saini Banner" width="100%">
 </p>
 
-
-<!-- 🧢 Custom Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:121212&height=250&section=header&text=Manpreet%20Saini&fontSize=50&fontColor=F7F7F7&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Web3%20Explorer%20%F0%9F%94%A5&descSize=20&descAlignY=60" />
-</p>
-
 <!-- 🔠 Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Manpreet+Saini;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%93%96;Web3+Explorer+%F0%9F%92%A1;Let's+Build+Something+Cool!" />

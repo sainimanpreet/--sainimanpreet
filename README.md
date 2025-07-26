@@ -71,14 +71,6 @@ I work with modern web technologies like **React**, **Next.js**, **Node.js**, an
 
 ---
 
-## ✍️ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:121212&height=120&section=footer" />
 </p>

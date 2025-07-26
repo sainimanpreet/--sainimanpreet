@@ -1,69 +1,88 @@
-<!-- Banner -->
+<!-- 🧢 Custom Banner -->
 <p align="center">
-  <img src="https://github.com/sainimanpreet/sainimanpreet/assets/your-banner-image-id" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:121212&height=250&section=header&text=Manpreet%20Saini&fontSize=50&fontColor=F7F7F7&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Web3%20Explorer%20%F0%9F%94%A5&descSize=20&descAlignY=60" />
 </p>
 
-<!-- Avatar -->
+<!-- 🔠 Typing Effect -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Manpreet+Saini;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%93%96;Web3+Explorer+%F0%9F%92%A1;Let's+Build+Something+Cool!" />
 </p>
 
-<!-- Title -->
-<h1 align="center">Hey 👋, I'm <span style="color:#00ffff">Manpreet Saini</span></h1>
+<!-- 🧑 Profile Pic -->
 <p align="center">
-  🚀 Full Stack Developer | 🌐 Web3 Learner | 🤝 Open Source Enthusiast
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,solidity,tailwind,html,css,vscode,git,github" />
+  <img src="https://avatars.githubusercontent.com/u/YOUR_USERNAME?v=4" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 ---
 
-### 🌟 Currently Focused On
+## 🧠 About Me
 
-- 🔍 Learning advanced **Web3** technologies (Solidity, Ethers.js)
-- 🤝 Preparing for **LFX Mentorship 2025**
-- 🚧 Building & contributing to open-source full stack projects
+Hey there! 👋 I'm **Manpreet Saini**, a passionate **Full-Stack Developer** who loves turning ideas into real-world applications.  
+I work with modern web technologies like **React**, **Next.js**, **Node.js**, and even dive into **Web3** with **Solidity**.
+
+- 🔭 I’m currently building cool side-projects and dApps  
+- 🌱 Exploring the world of decentralized tech & smart contracts  
+- 🛠️ I love minimal UI, dark mode, and pixel-perfect frontend  
+- ☕ Fuelled by coffee, creativity, and clean code  
+- 💬 Always open for collaborations, ideas, or just a good developer meme
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sainimanpreet&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainimanpreet&layout=compact&theme=radical" height="150"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,solidity,mongodb,tailwind,figma,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 🧠 Fun Facts
+## 📊 GitHub Stats
 
-- I love working on cool tech ideas that solve real problems
-- Obsessed with performance + dark UI + clean code
-- Passionate about **learning-in-public** ✨
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sainimanpreet&show_icons=true&theme=radical&border_radius=10&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sainimanpreet&theme=radical&hide_border=true&border_radius=10" width="48%" />
+</p>
 
 ---
 
-### 📫 Connect with Me
+## 📈 Top Languages
 
 <p align="center">
-  <a href="https://linkedin.com/in/sainimanpreet"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:sainimanpreet@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=sainimanpreet"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainimanpreet&layout=compact&theme=radical&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+## 💎 Featured Projects
+
+- 🐞 [Bug Tracker](https://github.com/sainimanpreet/bug-tracker) – Minimal Issue Management System  
+- 🗺️ [Wanderlust](https://github.com/sainimanpreet/major-project) – Listing & Review Web App  
+- 🔥 More Projects coming soon...
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+## ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/bongo-cat.gif" height="50" />
-  <br/>
-  <b>Thanks for stopping by!</b> ✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:121212&height=120&section=footer" />
 </p>
+
 
 
 

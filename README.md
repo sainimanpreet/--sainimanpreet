@@ -1,5 +1,9 @@
-<!-- 🖼️ Banner Image -->
-<img src="https://i.imgur.com/ibViAOP.png" width="100%" alt="Welcome Banner" />
+
+
+<!-- 🖼️ New Banner -->
+<p align="center">
+  <img src="https://github.com/sainimanpreet/sainimanpreet/assets/151999981/2297cb06-44e5-4e30-ac48-845ad3188aa7" alt="banner" width="100%" />
+</p>
 
 <!-- 👤 Profile Picture -->
 <p align="center">
@@ -7,41 +11,30 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Manpreet Saini</h1>
-<h3 align="center">🚀 Full Stack Developer | 🔗 Web3 Enthusiast | 🤝 Open Source Contributor</h3>
+<h3 align="center">🚀 Full Stack Developer | 🌐 Web3 Learner | 🤝 Open Source Contributor</h3>
 
-<!-- 🔤 Typing Animation -->
+<!-- ✍️ Typing Effect -->
 <p align="center">
-  <a href="https://github.com/sainimanpreet">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&center=true&vCenter=true&width=435&lines=Building+cool+stuff+with+code;Web3+%2F+Blockchain+Dev;Open+Source+Contributor;LFX+Applicant+%F0%9F%92%AA" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Building+cool+stuff+with+code!;Web3+%2F+Blockchain+Dev;Open+Source+Contributor;LFX+Mentorship+Hopeful+%F0%9F%A4%97" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Preparing for **LFX Mentorship 2025**
-- 💻 Currently learning **Solidity**, **Hardhat**, **Ethers.js**
-- 🚀 Love building with **MERN stack** and learning new tech
-- 🌐 Exploring the Web3 ecosystem and open source
-- 🤝 Always open for collaboration and mentorship
-- ⚡ Fun fact: My favorite bug is the one I just fixed 😎
+- 🧠 Learning: `Solidity`, `Hardhat`, `Ethers.js`
+- 🔭 Preparing for **LFX Mentorship**
+- 🧱 Building cool things with MERN
+- 🌍 Exploring Web3 & Blockchain
+- 💬 Ask me about `JavaScript`, `Node`, `MongoDB`
+- ⚡ Fun fact: My life is in dark mode
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
-  <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,solidity,vscode" />
 </p>
 
 ---
@@ -49,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sainimanpreet&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sainimanpreet&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sainimanpreet&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sainimanpreet&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -59,29 +52,28 @@
 
 ---
 
-## 📫 Connect with Me
+## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:sainimanpreet@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="mailto:sainimanpreet@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🎞️ Just for Fun
+## 🧩 Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="70%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%"/>
 </p>
 
 ---
 
-⭐️ Thanks for visiting! If you like what you see, drop a star ⭐️ and follow 🤝
-
+<p align="center">
+  💫 Thanks for visiting!  
+  <br/>
+  ⭐ Drop a star, follow & connect 🤝
+</p>
 
 
 

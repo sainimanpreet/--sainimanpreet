@@ -1,11 +1,9 @@
-
-
-<!-- 🖼️ New Banner -->
+<!-- 🖼️ Custom Banner -->
 <p align="center">
-  <img src="https://github.com/sainimanpreet/sainimanpreet/assets/151999981/2297cb06-44e5-4e30-ac48-845ad3188aa7" alt="banner" width="100%" />
+  <img src="https://github.com/sainimanpreet/sainimanpreet/assets/151999981/dfff6b8a-905d-4f12-9c41-f07615aa7d5d" alt="banner" width="100%" />
 </p>
 
-<!-- 👤 Profile Picture -->
+<!-- 👤 Profile Pic -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/151999981?v=4" width="160px" style="border-radius: 50%;" />
 </p>
@@ -22,16 +20,15 @@
 
 ## 🧑‍💻 About Me
 
-- 🧠 Learning: `Solidity`, `Hardhat`, `Ethers.js`
-- 🔭 Preparing for **LFX Mentorship**
-- 🧱 Building cool things with MERN
-- 🌍 Exploring Web3 & Blockchain
-- 💬 Ask me about `JavaScript`, `Node`, `MongoDB`
-- ⚡ Fun fact: My life is in dark mode
+- 🎯 Focused on Web3, MERN & Open Source
+- 🌱 Currently learning: `Solidity`, `Hardhat`, `Ethers.js`
+- ✨ LFX Mentorship Hopeful
+- 💡 Love turning ideas into real apps
+- ⚡ Fun Fact: I code better in the dark 😎
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,solidity,vscode" />
@@ -52,7 +49,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:sainimanpreet@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -61,7 +58,7 @@
 
 ---
 
-## 🧩 Fun Zone
+## 🎉 Fun Zone
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%"/>
@@ -70,9 +67,9 @@
 ---
 
 <p align="center">
-  💫 Thanks for visiting!  
+  🫶 Thanks for stopping by!  
   <br/>
-  ⭐ Drop a star, follow & connect 🤝
+  ⭐ If you like my work, follow me for more cool stuff!
 </p>
 
 

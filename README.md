@@ -1,11 +1,18 @@
-<!-- 🧢 Custom Banner -->
+
+<!-- 🧠 Tech Icons Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:121212&height=250&section=header&text=Manpreet%20Saini&fontSize=50&fontColor=F7F7F7&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Web3%20Explorer%20%F0%9F%94%A5&descSize=20&descAlignY=60" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-code-web-development-flat-flat-juicy-fish.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png"/>
+  <img src="https://img.icons8.com/office/40/000000/web-design.png"/>
+  <img src="https://img.icons8.com/color/48/000000/api.png"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-blockchain-cryptocurrency-flat-flat-juicy-fish.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/00FFD5/terminal.png"/>
 </p>
 
-<!-- 🔠 Typing Effect -->
+<!-- 🔠 Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Manpreet+Saini;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%93%96;Web3+Explorer+%F0%9F%92%A1;Let's+Build+Something+Cool!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B%2C+I'm+Manpreet+Saini;Full+Stack+Web3+Developer+%7C+Open+Source+Lover;Building+clean%2C+real+world+dApps;Dark+Theme+%7C+Coffee+%7C+Code" />
 </p>
 
 <!-- 🧑 Profile Pic -->

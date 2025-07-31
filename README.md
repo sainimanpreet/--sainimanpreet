@@ -60,6 +60,7 @@ I work with modern web technologies like **React**, **Next.js**, **Node.js**, an
   <a href="www.linkedin.com/in/manpreet-saini-927ba5296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+[![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/38a0884b-b569-4888-8a70-c682a7979f09?tab=badges&badge=first-design)
 
 
 
